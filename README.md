@@ -1,2 +1,0 @@
-# dynamodb
-experiments with dynamodb
