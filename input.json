@@ -1,0 +1,26 @@
+[
+    {
+        "Userid": "1597B287-FC3E-81B7-B5F7-2D631EC83F8D",
+        "age": 13,
+        "height": 54,
+        "income": 1200
+    },
+    {
+        "Userid": "20FC8AB8-3215-483A-83AC-58E2DB963FF3",
+        "age": 28,
+        "height": 72,
+        "income": 2150
+    },
+    {
+        "Userid": "2BFC09EF-06B3-444C-38DF-FBC3D46B2A2B",
+        "age": 42,
+        "height": 71,
+        "income": 2300
+    },
+    {
+        "Userid": "C7CEBE17-35A3-5506-8B4B-0948BAA91F7F",
+        "age": 30,
+        "height": 69,
+        "income": 1800
+    }
+]
